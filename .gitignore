@@ -19,6 +19,7 @@ Desktop.ini
 db.ini
 deploy_key_rsa
 .*
+!.gitignore
 
 #picture
 .png
