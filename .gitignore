@@ -1,0 +1,26 @@
+@@ -9,3 +9,9 @@ buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse m2e generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+# My configurations:
+db.ini
+deploy_key_rsa
+.*
+
+#picture
+.png
+.img
+
